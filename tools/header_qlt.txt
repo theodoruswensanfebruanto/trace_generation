@@ -1,0 +1,1 @@
+access_timestamp_in_microseconds,key,type_id,column_family_id,value_size
